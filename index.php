@@ -10,7 +10,7 @@
     <p><h3><b>ПІБ Семенишин Роман Сергійович</b></h3></p>
     <p><h3><b>Варіант №1</b></h3></p>
     <h4><b>Дисципліна Програмування Інтернет</b></h4>
-    <li><a href="lab1_Semenyshyn/">Лабораторна робота №1</a></li>
+    <li><a href="lab1_Semenyshyn/lab1.php">Лабораторна робота №1</a></li>
     <li><a href="lab2_Semenyshyn/html.html">Лабораторна робота №2</a></li>
     <li><a href="lab3_Semenyshyn/html.html">Лабораторна робота №3 </a></li>
     <li><a href="lab4_Semenyshyn/Test.html">Лабораторна робота №4 </a></li>
